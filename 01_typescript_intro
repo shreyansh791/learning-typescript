@@ -1,0 +1,19 @@
+typescript is a superset of javascript.
+typescript has all the features which javascript has and it provides some additional features as well. like interface, access modifiers etc
+typescript makes writing javascript easier and more powerful with additional feature it provides however we have one huge disadvantage of using typescript. typescript code can not be executed directly by Javascript runtime like browsers or the node js environment.
+typescript has additional features which does not exist in javascript and hence it makes writing javascript code much easier. faster and less error prone.
+how can we execute typescript code? typescript is also a very powerful compiler which can run and compile typescript code into javascript.
+ when we run a typescript code. it gets compiled to javascript code, which can be executed by javascript runtime like browsers.
+typescript is strongly typed and it allows you to specify the type of the variable explicitly.
+
+Disadvantage of TYPESCRIPT
+The only disadvantage with typescript is, it has one extra step of compiling the Typescript code to Javascript, before it gets executed by Javascript runtime.
+
+typescript code needs to be compiled to javascript in order to be executed in javascript environment like browser or node JS
+
+we need to install typescript because it also install the typescript compiler, which compiles typescript code to javascript.
+
+
+command to install typescript globally.
+npm install -g typescript
+

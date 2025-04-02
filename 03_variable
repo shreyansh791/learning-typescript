@@ -1,0 +1,7 @@
+Variable Naming Rules
+
+Variable names can contain only letters, digits, underscore and dollar signs.
+The first character of the variable name must not be a digit.
+A variable name can start with letters, underscore or dollar sign but not with digit.
+Typescript variable names are case sensitive.
+Typescript language's reserve words can not be used as a variable name.
