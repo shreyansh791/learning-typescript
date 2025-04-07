@@ -14,3 +14,10 @@ const printData: (name: string, age: number, gender?: string) => void = (name: s
 
 printData('Mohan', 50)
 printData('Rekha', 52, 'female')
+
+
+const printData2 = (name: string, age: number, gender?: string) => {
+    console.log(`name is ${name} with age ${age} and gender is ${gender}`)
+}
+printData('a',11,'female')
+printData('b',12,'male')
